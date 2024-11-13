@@ -3,5 +3,5 @@
 This is my personal homepage hosted on GitHub Pages.
 
 ## My Projects
-- [Project Name 1](https://github.com/username/projectname1)
-- [Project Name 2](https://github.com/username/projectname2)
+- [Anomaly Detection from Fundus Images: PNMoG-WSPN model](https://github.com/yuchendu/PNMoG-WSPN)
+- [Anomaly Detection from Fundus Images: Low-rank & Sparse Coding](https://github.com/username/Sparse-Coding)
