@@ -3,4 +3,4 @@ email: yuchendu@rocketmail.com
 description: "Welcome to my personal academic website where I share my research work, publications, and updates."
 baseurl: "" # 如果你的网站是在子目录下，比如 /blog，则填入子目录名
 url: "https://yuchendu.github.io" # 你的网站主地址
-theme: minima # 或者你使用的其他 Jekyll 主题
+theme: jekyll-theme-minimal # 或者你使用的其他 Jekyll 主题
