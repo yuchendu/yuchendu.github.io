@@ -16,3 +16,5 @@ LLM on diverse diseases diagnosis.
 
 ### Contact
 yuchendu@rocketmail.com
+
+yuchendu@sjtu.edu.cn
