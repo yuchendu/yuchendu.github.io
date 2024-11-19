@@ -7,3 +7,7 @@ email: yuchendu@rocketmail.com
 description: "This website showcases Dr. Du's implementations of models, codes, and software for medical image analysis in ophthalmology"
 baseurl: "" # 如果你的网站是在子目录下，比如 /blog，则填入子目录名
 url: "https://yuchendu.github.io" # 你的网站主地址
+
+author:
+  name: "Yuchen Du"
+  avatar: "/assets/images/MTXX_20231222_194610942.jpg"  # 确保路径正确
