@@ -8,7 +8,8 @@ LLM on diverse diseases diagnosis.
 
 ## Research Projects
 - [Anomaly Detection from Fundus Images: PNMoG-WSPN model](https://github.com/yuchendu/PNMoG-WSPN)
-- [Anomaly Detection from Fundus Images: Low-rank & Sparse Coding](https://github.com/yuchendu/Sparse-Coding)
+- [Anomaly Detection from Fundus Images: Low-rank & Sparse Coding (TBD)](https://github.com/yuchendu/Sparse-Coding)
+- [Eyeball Segmentation from MRI Scans: A double-stage model (TBD)](https://github.com/yuchendu/3D-Eyeball-Seg)
 
 ## Reproduced Codes from Other Authors
 - [Anomaly Detection from Fundus Images: Online RPCA model](https://github.com/yuchendu/OR-PCA)
