@@ -10,4 +10,4 @@ url: "https://yuchendu.github.io" # 你的网站主地址
 
 author:
   name: "Yuchen Du"
-  avatar: "https://github.com/yuchendu/yuchendu.github.io/assets/images/MTXX_20231222_194610942.jpg"  # 确保路径正确
+  avatar: "./assets/images/MTXX_20231222_194610942.jpg"  # 确保路径正确
