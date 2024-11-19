@@ -4,7 +4,7 @@ Dr. Yuchen Du is currently a research fellow in Clinic Research Center, Shanghai
 # Areas of Interest
 Anomaly detection for 2D/3D medical images; 
 3D shape analysis (eyeball MRI scans); 
-LLM on diverse disease diagnosis.
+LLM on diverse diseases diagnosis.
 
 # Research Projects
 - [Anomaly Detection from Fundus Images: PNMoG-WSPN model](https://github.com/yuchendu/PNMoG-WSPN)
